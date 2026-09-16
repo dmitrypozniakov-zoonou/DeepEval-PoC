@@ -1,0 +1,6 @@
+# Runtime dependencies for DeepEval-PoC.
+# Tested with Python 3.11.
+deepeval==4.2.2
+google-genai==2.23.0
+playwright==1.62.0
+python-dotenv==1.2.3
